@@ -3,7 +3,7 @@ name: case-review
 description: 独立测试用例评审（Excel/XMind/Markdown）。用例文件必选，需求/接口/设计文档可选。四维内部分析，输出 Markdown 报告（含待澄清事项与整改建议）；评审后引导用户澄清并确认是否修改原 Excel 或新建文件。触发词：用例评审、case review、速评、评审用例。
 ---
 
-# 独立测试用例评审 用例评审（case-review）
+# 独立测试用例评审（case-review）
 
 ## 定位
 
