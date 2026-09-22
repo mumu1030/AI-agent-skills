@@ -1,4 +1,4 @@
-# AI Agent Skills · 测试工程能力包
+# AI Agent Skills · 测试工程能力包（陆续更新ing）
 
 > A collection of Agent Skills for software testing — covering the full chain from requirement analysis to test case generation and review.
 >
@@ -155,10 +155,9 @@ graph LR
 
 ## 关于我
 
-X 年软件测试经验，正在从传统测试向 AI 测试转型。这套 skill 是转型过程中的实践沉淀。
+10年+软件测试经验，传统测试结合AI 测试转型中。这套 skill 是转型过程中的实践沉淀，会陆续更新ing
 
-- [ai-test-journey](https://github.com/mumu1030/ai-test-journey) — AI 测试学习记录
-- [llm-testcase-service](https://github.com/mumu1030/llm-testcase-service) — 基于 FastAPI 的测试用例生成服务
+- [llm-testcase-service](https://github.com/mumu1030/llm-testcase-service) — 基于 FastAPI +AI测试用例生成服务
 
 ## License
 
