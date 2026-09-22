@@ -124,7 +124,7 @@ graph LR
   pip install openpyxl
   ```
 - 其余功能（XMind 生成、XML 解析）均基于 Python 标准库实现，无需额外安装
-- 建议在支持 Skill 机制的 Agent 环境中使用（如 Claude Code、Cursor 等）
+- 建议在支持 Skill 机制的 Agent 环境中使用（如 Claude Code、Cursor、workbuddy等）
 
 ## 使用方式
 
